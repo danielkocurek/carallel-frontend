@@ -1,0 +1,38 @@
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    flex: 1;
+}
+
+.right {
+    display: flex;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.mr {
+    margin-right: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
