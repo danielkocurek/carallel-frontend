@@ -11,18 +11,12 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/danielkocurek/carallel-frontend.git
    cd carallel-frontend
+   npm install
 
 2. First, run the development server:
 
     ```bash
     npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
-    # or
-    bun dev
-    ```
 
 3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
